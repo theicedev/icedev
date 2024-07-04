@@ -1,3 +1,9 @@
+<div align="center">
+ <img src="https://i.pinimg.com/originals/15/30/29/153029775c17155d2afe01b88614d7df.png"  height="250px" />
+</div>
+
+<br>
+
 <div  align="center" >
   - 🔭 I am currently working as a freelancer ...
   <br>
@@ -20,4 +26,6 @@
 </picture>
 </div>
 
-  # thanks! :)
+<div align="center">
+  <h1> thaks! :) </h1>
+</div>
